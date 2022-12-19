@@ -22,4 +22,4 @@ B站，小红书，抖音同名ID：Hapier
 
 操作演示见"vedio\操作简略版.mp4"
 
-![](Images\Introduce.png)
+![](Images/Introduce.png)
