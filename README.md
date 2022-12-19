@@ -8,7 +8,9 @@
 
 # 游戏试玩！！！
 
-## 网页端，链接[https://tangou.ml/InfiniteGirlsShocking/](https://tangou.ml/InfiniteGirlsShocking/)。请按F11全屏运行！！！
+## 网页端，链接[https://tangou.ml/InfiniteGirlsShocking/](https://tangou.ml/InfiniteGirlsShocking/)。请按F11全屏运行。
+
+游戏放在github仓库且加载较慢。若有黑屏，请耐心等待加载。若404访问失败，请换联通手机网络。
 
 键盘控制WASD，Esc。（网页端请不要点“退出游戏”，会卡死，卡死请刷新页面），退出请按F11关闭网页窗口。
 
