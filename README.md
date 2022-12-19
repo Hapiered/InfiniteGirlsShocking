@@ -1,10 +1,4 @@
-# InfiniteGirlsShocking(无尽少女枪)-COSIN4-GAME_JAM
-
-# 界面介绍与操作演示
-
-操作演示见"操作简略版.mp4"
-
-![](Introduce.png)
+# 无尽少女枪(InfiniteGirlsShocking)-COSIN4(AI JAM)
 
 # 游戏试玩！！！
 
@@ -17,3 +11,9 @@
 ## exe客户端
 
 见文件夹"run_exe"，直接运行exe文件就行
+
+# 界面介绍与操作演示
+
+操作演示见"操作简略版.mp4"
+
+![img](Introduce.png)
