@@ -1,11 +1,21 @@
 # InfiniteGirlsShocking(无限少女枪)-COSIN4-GAME_JAM
 
+# 界面介绍与操作演示
+
+操作演示见"操作简略版.mp4"
+
+![](Introduce.png)
+
 # 游戏试玩！！！
 
 ## 网页端，链接[https://tangou.ml/InfiniteGirlsShocking/](https://tangou.ml/InfiniteGirlsShocking/)。运行请按F11全屏运行！！！
 
 键盘控制WASD，Esc。（网页端请不要点“退出游戏”，会卡死，卡死请刷新页面）
 
-# 界面介绍
+## exe客户端
 
-![](Introduce.png)
+见文件夹"run_exe"，直接运行exe文件就行
+
+# 源码
+
+见"src"文件夹的".unitypackge"。源工程文件太大，这里不上传了。
