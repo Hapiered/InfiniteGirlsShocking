@@ -16,10 +16,10 @@ B站，小红书，抖音同名ID：Hapier
 
 ## 客户端
 
-见文件夹"run_exe"，直接运行exe文件就行
+见文件夹"run_exe\COSIN4_exe1.0.zip"，直接运行exe文件就行
 
 # 界面介绍与操作演示
 
-操作演示见"操作简略版.mp4"
+操作演示见"vedio\操作简略版.mp4"
 
-![img](Introduce.png)
+![img](Images\Introduce.png)
