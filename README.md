@@ -1,8 +1,6 @@
 # 无尽少女枪(InfiniteGirlsShocking)-COSIN4(AI JAM)
 
-B站，小红书，抖音同名ID：Hapier
-
-作品已经上传视频，[InfiniteGirlsShocking](https://www.bilibili.com/video/BV1kG4y1g7aY/?share_source=copy_web&vd_source=e71966b84faf5874c21ed098ab048bff)
+作品已经上传视频，[InfiniteGirlsShocking](https://www.bilibili.com/video/BV1kG4y1g7aY/?share_source=copy_web&vd_source=e71966b84faf5874c21ed098ab048bff)。
 查看作品介绍：“无尽少女枪 | AI Jam 作品展示”
 
 # 游戏试玩！！！
