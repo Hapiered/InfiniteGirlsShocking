@@ -5,6 +5,8 @@
 
 # 游戏试玩！！！
 
+游戏在设计时只考虑了1920x1080分辨率，没做好适配。若显示不正常，请调整显示器分辨率。
+
 ## 网页端
 
 链接[https://tangou.ml/InfiniteGirlsShocking/](https://tangou.ml/InfiniteGirlsShocking/)。请按F11全屏运行。
